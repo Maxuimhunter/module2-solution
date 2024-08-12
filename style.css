@@ -40,6 +40,7 @@ main {
     background-color: #ffcccc;
     padding: 5px;
     border: 1px solid black;
+    padding-bottom: 10px;
 }
 
 /* Responsive Design */
